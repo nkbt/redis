@@ -1,1 +1,1 @@
-module.exports = process.env.REDIS_COV ? require('./lib-cov/redis') : require('./lib/redis');
+module.exports = process.env.REDIS_HELPER_COV ? require('./lib-cov/redis-helper') : require('./lib/redis-helper');

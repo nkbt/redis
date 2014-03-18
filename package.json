@@ -1,6 +1,6 @@
 {
-	"name": "redis",
-	"description": "PeopleBrowsr Libs: Redis",
+	"name": "redis-helper",
+	"description": "PeopleBrowsr Libs: Redis Helper",
 	"version": "0.0.1",
 	"private": true,
 	"author": {
@@ -18,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "http://git.pb/nodejs-library/redis/repository/archive"
+		"url": "http://git.pb/nodejs-library/redis-helper/repository/archive"
 	},
 	"dependencies": {
 		"gleam": "git://github.com/nkbt/gleam#v3",
