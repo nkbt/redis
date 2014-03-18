@@ -1,0 +1,43 @@
+{
+	"name": "redis",
+	"description": "PeopleBrowsr Libs: Redis",
+	"version": "0.0.1",
+	"private": true,
+	"author": {
+		"name": "Nik Butenko",
+		"email": "nik@butenko.me"
+	},
+	"contributors": [
+		{
+			"name": "Nik Butenko",
+			"email": "nik@butenko.me"
+		}
+	],
+	"scripts": {
+		"test": "grunt"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://git.pb/nodejs-library/redis/repository/archive"
+	},
+	"dependencies": {
+		"gleam": "git://github.com/nkbt/gleam#v3",
+		"redis": "0.x",
+		"underscore": "1.x",
+		"async": "0.x"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.2",
+		"grunt-cli": "~0.1.13",
+		"grunt-simple-mocha": "~0.4.0",
+		"grunt-contrib-jshint": "~0.7.2",
+		"grunt-contrib-watch": "~0.5.3",
+		"grunt-contrib-concat": "~0.3.0",
+		"mocha": "~1.17.1",
+		"chai": "~1.9.0",
+		"nock": "~0.27.2",
+		"sinon-chai": "~2.5.0",
+		"sinon": "~1.8.2",
+		"jscoverage": "~0.3.8"
+	}
+}
