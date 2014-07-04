@@ -1,6 +1,6 @@
 {
 	"name": "redis-helper",
-	"description": "PeopleBrowsr Libs: Redis Helper",
+	"description": "Redis Helper",
 	"version": "0.0.2",
 	"private": true,
 	"author": {
@@ -18,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "http://git.pb/nodejs-library/redis-helper/repository/archive"
+		"url": "git@github.com:nkbt/redis.git"
 	},
 	"dependencies": {
 		"redis": "0.x",

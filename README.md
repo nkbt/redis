@@ -1,2 +1,2 @@
-PeopleBrowsr Libs: Redis Helper
+Redis Helper
 ==========
