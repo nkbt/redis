@@ -2,7 +2,6 @@
 	"name": "redis-helper",
 	"description": "Redis Helper",
 	"version": "0.0.2",
-	"private": true,
 	"author": {
 		"name": "Nik Butenko",
 		"email": "nik@butenko.me"
