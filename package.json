@@ -20,23 +20,23 @@
 		"url": "git@github.com:nkbt/redis.git"
 	},
 	"dependencies": {
-		"redis": "0.x",
+		"redis": "^2.6.3",
 		"underscore": "1.x",
-		"async": "0.x",
+		"async": "^2.1.2",
 		"gleam": "~3.1.2"
 	},
 	"devDependencies": {
-		"grunt": "~0.4.2",
-		"grunt-cli": "~0.1.13",
+		"grunt": "~1.0.1",
+		"grunt-cli": "~1.2.0",
 		"grunt-simple-mocha": "~0.4.0",
-		"grunt-contrib-jshint": "~0.7.2",
-		"grunt-contrib-watch": "~0.5.3",
-		"grunt-contrib-concat": "~0.3.0",
-		"mocha": "~1.17.1",
-		"chai": "~1.9.0",
-		"nock": "~0.27.2",
-		"sinon-chai": "~2.5.0",
-		"sinon": "~1.8.2",
-		"jscoverage": "~0.3.8"
+		"grunt-contrib-jshint": "~1.0.0",
+		"grunt-contrib-watch": "~1.0.0",
+		"grunt-contrib-concat": "~1.0.1",
+		"mocha": "~3.1.2",
+		"chai": "~3.5.0",
+		"nock": "~9.0.2",
+		"sinon-chai": "~2.8.0",
+		"sinon": "~1.17.6",
+		"jscoverage": "~0.6.0"
 	}
 }
